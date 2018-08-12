@@ -20,3 +20,5 @@ $ git push heroku master
 ## Starting the bot
 1. Edit `config.py` (add your token and proxy IP)
 2. Write and start your bot
+
+Proxygram supports LongPoll and WebHook, so you can use any of them
